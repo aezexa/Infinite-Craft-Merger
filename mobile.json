@@ -1,0 +1,775 @@
+{
+    "discoveries": [],
+    "elements": [
+      {
+        "text": "Water",
+        "emoji": "💧",
+        "discovered": false
+      },
+      {
+        "text": "Fire",
+        "emoji": "🔥",
+        "discovered": false
+      },
+      {
+        "text": "Wind",
+        "emoji": "🌬️",
+        "discovered": false
+      },
+      {
+        "text": "Earth",
+        "emoji": "🌍",
+        "discovered": false
+      },
+      {
+        "text": "Steam",
+        "emoji": "💨"
+      },
+      {
+        "text": "Wave",
+        "emoji": "🌊"
+      },
+      {
+        "text": "Plant",
+        "emoji": "🌱"
+      },
+      {
+        "text": "Seaweed",
+        "emoji": "🌊"
+      },
+      {
+        "text": "Surf",
+        "emoji": "🏄"
+      },
+      {
+        "text": "Engine",
+        "emoji": "🚗"
+      },
+      {
+        "text": "Tractor",
+        "emoji": "🚜"
+      },
+      {
+        "text": "Farm",
+        "emoji": "🐄"
+      },
+      {
+        "text": "Field",
+        "emoji": "🌾"
+      },
+      {
+        "text": "Village",
+        "emoji": "🏡"
+      },
+      {
+        "text": "Food",
+        "emoji": "🍕"
+      },
+      {
+        "text": "Pizza",
+        "emoji": "🍕"
+      },
+      {
+        "text": "Dirt",
+        "emoji": "💩"
+      },
+      {
+        "text": "Soil",
+        "emoji": "🌱"
+      },
+      {
+        "text": "Barbecue",
+        "emoji": "🍖"
+      },
+      {
+        "text": "Meat",
+        "emoji": "🍖"
+      },
+      {
+        "text": "Burger",
+        "emoji": "🍔"
+      },
+      {
+        "text": "Cow",
+        "emoji": "🐄"
+      },
+      {
+        "text": "Dust",
+        "emoji": "🌫️"
+      },
+      {
+        "text": "Burnt Burger",
+        "emoji": "🍔"
+      },
+      {
+        "text": "Grill",
+        "emoji": "🍖"
+      },
+      {
+        "text": "Farmer",
+        "emoji": "🚜"
+      },
+      {
+        "text": "Milk",
+        "emoji": "🥛"
+      },
+      {
+        "text": "Dust Bowl",
+        "emoji": "🌪️"
+      },
+      {
+        "text": "Ghost Town",
+        "emoji": "🏜️"
+      },
+      {
+        "text": "Town",
+        "emoji": "🏡"
+      },
+      {
+        "text": "City",
+        "emoji": "🏙️"
+      },
+      {
+        "text": "Metropolis",
+        "emoji": "🏙️"
+      },
+      {
+        "text": "Megalopolis",
+        "emoji": "🌆"
+      },
+      {
+        "text": "Megatropolis",
+        "emoji": "🏙️"
+      },
+      {
+        "text": "Las Vegas",
+        "emoji": "🎰"
+      },
+      {
+        "text": "Ghost",
+        "emoji": "👻"
+      },
+      {
+        "text": "Casino",
+        "emoji": "🎰"
+      },
+      {
+        "text": "Money",
+        "emoji": "💵"
+      },
+      {
+        "text": "Gambler",
+        "emoji": "🎲"
+      },
+      {
+        "text": "Rich",
+        "emoji": "💰"
+      },
+      {
+        "text": "Richer",
+        "emoji": "💸"
+      },
+      {
+        "text": "Richest",
+        "emoji": "💸"
+      },
+      {
+        "text": "Bill Gates",
+        "emoji": "💸"
+      },
+      {
+        "text": "Monopoly",
+        "emoji": "🎲"
+      },
+      {
+        "text": "Milkshake",
+        "emoji": "🥤"
+      },
+      {
+        "text": "Billionaire",
+        "emoji": "💸"
+      },
+      {
+        "text": "Engineer",
+        "emoji": "👷"
+      },
+      {
+        "text": "Gold",
+        "emoji": "💛"
+      },
+      {
+        "text": "Diamond",
+        "emoji": "💎"
+      },
+      {
+        "text": "Oil",
+        "emoji": "🛢️"
+      },
+      {
+        "text": "Farmville",
+        "emoji": "🐮"
+      },
+      {
+        "text": "Saudi Arabia",
+        "emoji": "🇸🇦"
+      },
+      {
+        "text": "Tsunami",
+        "emoji": "🌊"
+      },
+      {
+        "text": "Treasure",
+        "emoji": "💎"
+      },
+      {
+        "text": "Jewel",
+        "emoji": "💎"
+      },
+      {
+        "text": "Crown",
+        "emoji": "👑"
+      },
+      {
+        "text": "King",
+        "emoji": "👑"
+      },
+      {
+        "text": "Queen",
+        "emoji": "👑"
+      },
+      {
+        "text": "Love",
+        "emoji": "❤️"
+      },
+      {
+        "text": "Marriage",
+        "emoji": "💍"
+      },
+      {
+        "text": "Divorce",
+        "emoji": "💔"
+      },
+      {
+        "text": "Behead",
+        "emoji": "🔪"
+      },
+      {
+        "text": "Decapitate",
+        "emoji": "🔪"
+      },
+      {
+        "text": "Beheading",
+        "emoji": "🔪"
+      },
+      {
+        "text": "Friday",
+        "emoji": "📅"
+      },
+      {
+        "text": "Bridget Jones",
+        "emoji": "💅"
+      },
+      {
+        "text": "Good",
+        "emoji": "👍"
+      },
+      {
+        "text": "Weekend",
+        "emoji": "🌞"
+      },
+      {
+        "text": "Vacation",
+        "emoji": "🏖️"
+      },
+      {
+        "text": "Odd",
+        "emoji": "👽"
+      },
+      {
+        "text": "God",
+        "emoji": "🌌"
+      },
+      {
+        "text": "Genius",
+        "emoji": "🧠"
+      },
+      {
+        "text": "Evil",
+        "emoji": "😈"
+      },
+      {
+        "text": "Angel",
+        "emoji": "👼"
+      },
+      {
+        "text": "Saint",
+        "emoji": "😇"
+      },
+      {
+        "text": "Sabbatical",
+        "emoji": "🏖️"
+      },
+      {
+        "text": "Holiday",
+        "emoji": "🎄"
+      },
+      {
+        "text": "Bridget Saint",
+        "emoji": "👰‍♀️"
+      },
+      {
+        "text": "John the Baptist",
+        "emoji": "🐍"
+      },
+      {
+        "text": "Bridget",
+        "emoji": "👩‍🦰"
+      },
+      {
+        "text": "Brigid",
+        "emoji": "🌞"
+      },
+      {
+        "text": "Patrick",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Spongebob",
+        "emoji": "🍍"
+      },
+      {
+        "text": "Spongebob Squarepants",
+        "emoji": "🍍"
+      },
+      {
+        "text": "SpongeBob SquarePants",
+        "emoji": "🍍"
+      },
+      {
+        "text": "Sponge",
+        "emoji": "🧽"
+      },
+      {
+        "text": "Squidward",
+        "emoji": "🦑"
+      },
+      {
+        "text": "Squidmas",
+        "emoji": "🦑"
+      },
+      {
+        "text": "Squid Saint",
+        "emoji": "🦑⛪️"
+      },
+      {
+        "text": "Squid",
+        "emoji": "🦑"
+      },
+      {
+        "text": "Octopus",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Cthulhu",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Madness",
+        "emoji": "🤪"
+      },
+      {
+        "text": "Splitting Image",
+        "emoji": "👯"
+      },
+      {
+        "text": "Clone",
+        "emoji": "👬"
+      },
+      {
+        "text": "Octoclone",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Jesus",
+        "emoji": "😇"
+      },
+      {
+        "text": "Christmas",
+        "emoji": "🎄"
+      },
+      {
+        "text": "Sponge Jesus",
+        "emoji": "💦"
+      },
+      {
+        "text": "Cthulhu Jesus",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Christianity",
+        "emoji": "✝️"
+      },
+      {
+        "text": "Cthulhuism",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Baptism",
+        "emoji": "💦"
+      },
+      {
+        "text": "Catholicism",
+        "emoji": "⛪"
+      },
+      {
+        "text": "Catholic",
+        "emoji": "⛪"
+      },
+      {
+        "text": "Santa Claus",
+        "emoji": "🎅"
+      },
+      {
+        "text": "Cultist",
+        "emoji": "👺"
+      },
+      {
+        "text": "Cthulhumas",
+        "emoji": "🎄"
+      },
+      {
+        "text": "Pope",
+        "emoji": "🕍"
+      },
+      {
+        "text": "Priest",
+        "emoji": "👼"
+      },
+      {
+        "text": "Church",
+        "emoji": "⛪"
+      },
+      {
+        "text": "Vatican",
+        "emoji": "🕍"
+      },
+      {
+        "text": "Devil",
+        "emoji": "😈"
+      },
+      {
+        "text": "Exorcist",
+        "emoji": "👻"
+      },
+      {
+        "text": "Hell",
+        "emoji": "👿"
+      },
+      {
+        "text": "Satan",
+        "emoji": "😈"
+      },
+      {
+        "text": "Demon",
+        "emoji": "👿"
+      },
+      {
+        "text": "Lunatic",
+        "emoji": "🌚"
+      },
+      {
+        "text": "Christian",
+        "emoji": "✝️"
+      },
+      {
+        "text": "Crusader",
+        "emoji": "⚔️"
+      },
+      {
+        "text": "Knight",
+        "emoji": "🤴"
+      },
+      {
+        "text": "Dragon",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Paladin",
+        "emoji": "🛡️"
+      },
+      {
+        "text": "Crusade",
+        "emoji": "🏹"
+      },
+      {
+        "text": "Templar",
+        "emoji": "🛡️"
+      },
+      {
+        "text": "Sponge Satan",
+        "emoji": "👿"
+      },
+      {
+        "text": "SpongeBob",
+        "emoji": "🍍"
+      },
+      {
+        "text": "Dragonborn",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Dovahkiin",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Bridget Christian",
+        "emoji": "👩‍💼"
+      },
+      {
+        "text": "Martyr",
+        "emoji": "💥"
+      },
+      {
+        "text": "Cross",
+        "emoji": "✝️"
+      },
+      {
+        "text": "Creationist",
+        "emoji": "🌎"
+      },
+      {
+        "text": "Crucifix",
+        "emoji": "✝️"
+      },
+      {
+        "text": "Evolution",
+        "emoji": "🦖"
+      },
+      {
+        "text": "Dinosaur",
+        "emoji": "🦖"
+      },
+      {
+        "text": "Cthulhuist",
+        "emoji": "🐙"
+      },
+      {
+        "text": "Fossil",
+        "emoji": "🦴"
+      },
+      {
+        "text": "Eucharist",
+        "emoji": "🍞"
+      },
+      {
+        "text": "Christmas Tree",
+        "emoji": "🎄"
+      },
+      {
+        "text": "Dragon Egg",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Saint George",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Sword",
+        "emoji": "🗡️"
+      },
+      {
+        "text": "Warrior",
+        "emoji": "🗡️"
+      },
+      {
+        "text": "Christ",
+        "emoji": "👼"
+      },
+      {
+        "text": "Transubstantiation",
+        "emoji": "🍷"
+      },
+      {
+        "text": "Fish",
+        "emoji": "🐟"
+      },
+      {
+        "text": "Ichthus",
+        "emoji": "🐟"
+      },
+      {
+        "text": "Shark",
+        "emoji": "🦈"
+      },
+      {
+        "text": "Pirate",
+        "emoji": "🏴‍☠️"
+      },
+      {
+        "text": "Whale",
+        "emoji": "🐳"
+      },
+      {
+        "text": "Moby Dick",
+        "emoji": "🐳"
+      },
+      {
+        "text": "Captain Ahab",
+        "emoji": "🐳"
+      },
+      {
+        "text": "Captain",
+        "emoji": "🧑‍✈️"
+      },
+      {
+        "text": "Captain Hook",
+        "emoji": "🪝"
+      },
+      {
+        "text": "Peter Pan",
+        "emoji": "🌳"
+      },
+      {
+        "text": "Hook",
+        "emoji": "🪝"
+      },
+      {
+        "text": "Skull",
+        "emoji": "💀"
+      },
+      {
+        "text": "Jolly Roger",
+        "emoji": "☠️"
+      },
+      {
+        "text": "Pirate Ship",
+        "emoji": "🏴‍☠️"
+      },
+      {
+        "text": "Piranha",
+        "emoji": "🐟"
+      },
+      {
+        "text": "Megalodon",
+        "emoji": "🦈"
+      },
+      {
+        "text": "Drogon",
+        "emoji": "🐉"
+      },
+      {
+        "text": "Viking",
+        "emoji": "🛡️"
+      },
+      {
+        "text": "Longboat",
+        "emoji": "🚣"
+      },
+      {
+        "text": "Berserker",
+        "emoji": "🤯"
+      },
+      {
+        "text": "Fishing",
+        "emoji": "🎣"
+      },
+      {
+        "text": "Fisherman",
+        "emoji": "🎣"
+      },
+      {
+        "text": "Werewolf",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Vampire",
+        "emoji": "🧛"
+      },
+      {
+        "text": "Were-Christian",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-vampire",
+        "emoji": "🧛‍♀️"
+      },
+      {
+        "text": "Were-vampwolf",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-wolf",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-wolf-vampire",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-vampwolf-vampire",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-vampwolf-vampire-wolf",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-vampwolf-vampire-wolf-vampwolf",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Twilight",
+        "emoji": "🌙",
+        "discovered": false
+      },
+      {
+        "text": "Retirement",
+        "emoji": "👴",
+        "discovered": false
+      },
+      {
+        "text": "Sunset",
+        "emoji": "🌅"
+      },
+      {
+        "text": "Night",
+        "emoji": "🌃"
+      },
+      {
+        "text": "Moon",
+        "emoji": "🌙"
+      },
+      {
+        "text": "Were-tired",
+        "emoji": "😴🐺"
+      },
+      {
+        "text": "Werebear",
+        "emoji": "🐻"
+      },
+      {
+        "text": "Were-Shark",
+        "emoji": "🦈"
+      },
+      {
+        "text": "Wolfman",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Were-T-Rex",
+        "emoji": "🦖"
+      },
+      {
+        "text": "Werepirate",
+        "emoji": "🐺"
+      },
+      {
+        "text": "Werebread",
+        "emoji": "🍞"
+      },
+      {
+        "text": "Werefish",
+        "emoji": "🐟"
+      }
+    ]
+  }
