@@ -1,0 +1,6556 @@
+{
+  "elements": [
+    {
+      "text": "Water",
+      "emoji": "\ud83d\udca7",
+      "discovered": false
+    },
+    {
+      "text": "Fire",
+      "emoji": "\ud83d\udd25",
+      "discovered": false
+    },
+    {
+      "text": "Wind",
+      "emoji": "\ud83c\udf2c\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Earth",
+      "emoji": "\ud83c\udf0d",
+      "discovered": false
+    },
+    {
+      "text": "Plant",
+      "emoji": "\ud83c\udf31",
+      "discovered": false
+    },
+    {
+      "text": "Tree",
+      "emoji": "\ud83c\udf33",
+      "discovered": false
+    },
+    {
+      "text": "Forest",
+      "emoji": "\ud83c\udf32",
+      "discovered": false
+    },
+    {
+      "text": "Wood",
+      "emoji": "\ud83c\udf32",
+      "discovered": false
+    },
+    {
+      "text": "Paper",
+      "emoji": "\ud83d\udcc3",
+      "discovered": false
+    },
+    {
+      "text": "Ash",
+      "emoji": "\ud83c\udf0b",
+      "discovered": false
+    },
+    {
+      "text": "Stone",
+      "emoji": "\ud83e\udea8",
+      "discovered": false
+    },
+    {
+      "text": "Rock",
+      "emoji": "\ud83e\udea8",
+      "discovered": false
+    },
+    {
+      "text": "Statue",
+      "emoji": "\ud83d\uddfd",
+      "discovered": false
+    },
+    {
+      "text": "Steam",
+      "emoji": "\ud83d\udca8",
+      "discovered": false
+    },
+    {
+      "text": "Lake",
+      "emoji": "\ud83c\udf0a",
+      "discovered": false
+    },
+    {
+      "text": "Wave",
+      "emoji": "\ud83c\udf0a",
+      "discovered": false
+    },
+    {
+      "text": "Storm",
+      "emoji": "\u26c8\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Lily",
+      "emoji": "\ud83c\udf38",
+      "discovered": false
+    },
+    {
+      "text": "Seaweed",
+      "emoji": "\ud83c\udf0a",
+      "discovered": false
+    },
+    {
+      "text": "Surf",
+      "emoji": "\ud83c\udfc4",
+      "discovered": false
+    },
+    {
+      "text": "Surfer",
+      "emoji": "\ud83c\udfc4",
+      "discovered": false
+    },
+    {
+      "text": "Engine",
+      "emoji": "\ud83d\ude97",
+      "discovered": false
+    },
+    {
+      "text": "Train",
+      "emoji": "\ud83d\ude82",
+      "discovered": false
+    },
+    {
+      "text": "Tractor",
+      "emoji": "\ud83d\ude9c",
+      "discovered": false
+    },
+    {
+      "text": "Farm",
+      "emoji": "\ud83d\udc04",
+      "discovered": false
+    },
+    {
+      "text": "Village",
+      "emoji": "\ud83c\udfe1",
+      "discovered": false
+    },
+    {
+      "text": "Food",
+      "emoji": "\ud83c\udf55",
+      "discovered": false
+    },
+    {
+      "text": "Meal",
+      "emoji": "\ud83c\udf7d\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Market",
+      "emoji": "\ud83c\udfea",
+      "discovered": false
+    },
+    {
+      "text": "Field",
+      "emoji": "\ud83c\udf3e",
+      "discovered": false
+    },
+    {
+      "text": "Surf and Turf",
+      "emoji": "\ud83c\udf64",
+      "discovered": false
+    },
+    {
+      "text": "Fuel",
+      "emoji": "\u26fd",
+      "discovered": false
+    },
+    {
+      "text": "Pizza",
+      "emoji": "\ud83c\udf55",
+      "discovered": false
+    },
+    {
+      "text": "Corn",
+      "emoji": "\ud83c\udf3d",
+      "discovered": false
+    },
+    {
+      "text": "Soil",
+      "emoji": "\ud83c\udf31",
+      "discovered": false
+    },
+    {
+      "text": "Dirt",
+      "emoji": "\ud83d\udca9",
+      "discovered": false
+    },
+    {
+      "text": "Barbecue",
+      "emoji": "\ud83c\udf56",
+      "discovered": false
+    },
+    {
+      "text": "Grill",
+      "emoji": "\ud83c\udf56",
+      "discovered": false
+    },
+    {
+      "text": "Meat",
+      "emoji": "\ud83c\udf56",
+      "discovered": false
+    },
+    {
+      "text": "Burger",
+      "emoji": "\ud83c\udf54",
+      "discovered": false
+    },
+    {
+      "text": "Cow",
+      "emoji": "\ud83d\udc04",
+      "discovered": false
+    },
+    {
+      "text": "Milk",
+      "emoji": "\ud83e\udd5b",
+      "discovered": false
+    },
+    {
+      "text": "Dust",
+      "emoji": "\ud83c\udf2b\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Burnt Burger",
+      "emoji": "\ud83c\udf54",
+      "discovered": false
+    },
+    {
+      "text": "Surfboard",
+      "emoji": "\ud83c\udfc4",
+      "discovered": false
+    },
+    {
+      "text": "Town",
+      "emoji": "\ud83c\udfe1",
+      "discovered": false
+    },
+    {
+      "text": "Cornfield",
+      "emoji": "\ud83c\udf3d",
+      "discovered": false
+    },
+    {
+      "text": "Cheese",
+      "emoji": "\ud83e\uddc0",
+      "discovered": false
+    },
+    {
+      "text": "Smoke",
+      "emoji": "\ud83d\udca8",
+      "discovered": false
+    },
+    {
+      "text": "Sand",
+      "emoji": "\ud83c\udfd6\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Sandstorm",
+      "emoji": "\ud83c\udf2a\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Vacuum",
+      "emoji": "\ud83e\uddf9",
+      "discovered": false
+    },
+    {
+      "text": "Ghost Town",
+      "emoji": "\ud83c\udfdc\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "City",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Metropolis",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Megalopolis",
+      "emoji": "\ud83c\udf06",
+      "discovered": false
+    },
+    {
+      "text": "Ghost",
+      "emoji": "\ud83d\udc7b",
+      "discovered": false
+    },
+    {
+      "text": "Gotham",
+      "emoji": "\ud83c\udf03",
+      "discovered": false
+    },
+    {
+      "text": "Megatropolis",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "New York",
+      "emoji": "\ud83d\uddfd",
+      "discovered": false
+    },
+    {
+      "text": "Las Vegas",
+      "emoji": "\ud83c\udfb0",
+      "discovered": false
+    },
+    {
+      "text": "Casino",
+      "emoji": "\ud83c\udfb0",
+      "discovered": false
+    },
+    {
+      "text": "Money",
+      "emoji": "\ud83d\udcb5",
+      "discovered": false
+    },
+    {
+      "text": "Gambler",
+      "emoji": "\ud83c\udfb2",
+      "discovered": false
+    },
+    {
+      "text": "Rich",
+      "emoji": "\ud83d\udcb0",
+      "discovered": false
+    },
+    {
+      "text": "Richer",
+      "emoji": "\ud83d\udcb8",
+      "discovered": false
+    },
+    {
+      "text": "Richest",
+      "emoji": "\ud83d\udcb8",
+      "discovered": false
+    },
+    {
+      "text": "Gold",
+      "emoji": "\ud83d\udc9b",
+      "discovered": false
+    },
+    {
+      "text": "Billionaire",
+      "emoji": "\ud83d\udcb8",
+      "discovered": false
+    },
+    {
+      "text": "Farmer",
+      "emoji": "\ud83d\ude9c",
+      "discovered": false
+    },
+    {
+      "text": "Trump",
+      "emoji": "\ud83d\udca9",
+      "discovered": false
+    },
+    {
+      "text": "Bill Gates",
+      "emoji": "\ud83d\udcb8",
+      "discovered": false
+    },
+    {
+      "text": "Diamond",
+      "emoji": "\ud83d\udc8e",
+      "discovered": false
+    },
+    {
+      "text": "Diamond Block",
+      "emoji": "\ud83d\udc8e",
+      "discovered": false
+    },
+    {
+      "text": "Milkshake",
+      "emoji": "\ud83e\udd64",
+      "discovered": false
+    },
+    {
+      "text": "Midas",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Gold Bar",
+      "emoji": "\ud83d\udcb5",
+      "discovered": false
+    },
+    {
+      "text": "Gold Ingot",
+      "emoji": "\ud83e\ude99",
+      "discovered": false
+    },
+    {
+      "text": "Gold Shake",
+      "emoji": "\ud83d\udc9b",
+      "discovered": false
+    },
+    {
+      "text": "Engineer",
+      "emoji": "\ud83d\udc77",
+      "discovered": false
+    },
+    {
+      "text": "Fossil",
+      "emoji": "\ud83e\uddb4",
+      "discovered": false
+    },
+    {
+      "text": "Oil",
+      "emoji": "\ud83d\udee2\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Saudi Arabia",
+      "emoji": "\ud83c\uddf8\ud83c\udde6",
+      "discovered": false
+    },
+    {
+      "text": "Farmville",
+      "emoji": "\ud83d\udc2e",
+      "discovered": false
+    },
+    {
+      "text": "Ocean",
+      "emoji": "\ud83c\udf0a",
+      "discovered": false
+    },
+    {
+      "text": "Fish",
+      "emoji": "\ud83d\udc1f",
+      "discovered": false
+    },
+    {
+      "text": "Fishbowl",
+      "emoji": "\ud83d\udc20",
+      "discovered": false
+    },
+    {
+      "text": "Shark",
+      "emoji": "\ud83e\udd88",
+      "discovered": false
+    },
+    {
+      "text": "Whale",
+      "emoji": "\ud83d\udc33",
+      "discovered": false
+    },
+    {
+      "text": "Megalodon",
+      "emoji": "\ud83e\udd88",
+      "discovered": false
+    },
+    {
+      "text": "Tsunami",
+      "emoji": "\ud83c\udf0a",
+      "discovered": false
+    },
+    {
+      "text": "Ring",
+      "emoji": "\ud83d\udc8d",
+      "discovered": false
+    },
+    {
+      "text": "Engagement",
+      "emoji": "\ud83d\udc8d",
+      "discovered": false
+    },
+    {
+      "text": "Marriage",
+      "emoji": "\ud83d\udc8d",
+      "discovered": false
+    },
+    {
+      "text": "Divorce",
+      "emoji": "\ud83d\udc94",
+      "discovered": false
+    },
+    {
+      "text": "Prenup",
+      "emoji": "\ud83d\udc8d",
+      "discovered": false
+    },
+    {
+      "text": "Wedding",
+      "emoji": "\ud83d\udc70",
+      "discovered": false
+    },
+    {
+      "text": "Disaster",
+      "emoji": "\ud83c\udf2a\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Jewelry",
+      "emoji": "\ud83d\udc8e",
+      "discovered": false
+    },
+    {
+      "text": "Treasure",
+      "emoji": "\ud83d\udc8e",
+      "discovered": false
+    },
+    {
+      "text": "Chest",
+      "emoji": "\ud83d\uddc3\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Treasure Chest",
+      "emoji": "\ud83d\udddd\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Pirate",
+      "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "AARRRRRRRRRRRRRRRRRRR",
+      "emoji": "\ud83e\udd80",
+      "discovered": false
+    },
+    {
+      "text": "Crown",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "King",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Castle",
+      "emoji": "\ud83c\udff0",
+      "discovered": false
+    },
+    {
+      "text": "Palace",
+      "emoji": "\ud83c\udff0",
+      "discovered": false
+    },
+    {
+      "text": "Queen",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Love",
+      "emoji": "\u2764\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Hate",
+      "emoji": "\ud83d\udc94",
+      "discovered": false
+    },
+    {
+      "text": "ISIS",
+      "emoji": "\ud83d\udca3",
+      "discovered": false
+    },
+    {
+      "text": "Pharaoh",
+      "emoji": "\ud83d\ude4b",
+      "discovered": false
+    },
+    {
+      "text": "Egypt",
+      "emoji": "\ud83c\uddea\ud83c\uddec",
+      "discovered": false
+    },
+    {
+      "text": "Pyramid",
+      "emoji": "\ud83d\uddff",
+      "discovered": false
+    },
+    {
+      "text": "Sphinx",
+      "emoji": "\ud83d\udc2b",
+      "discovered": false
+    },
+    {
+      "text": "Tomb",
+      "emoji": "\ud83e\udea6",
+      "discovered": false
+    },
+    {
+      "text": "Grave",
+      "emoji": "\ud83e\udea6",
+      "discovered": false
+    },
+    {
+      "text": "Tombstone",
+      "emoji": "\ud83e\udea6",
+      "discovered": false
+    },
+    {
+      "text": "Mummy",
+      "emoji": "\ud83e\udddf",
+      "discovered": false
+    },
+    {
+      "text": "Sarcophagus",
+      "emoji": "\ud83e\udea6",
+      "discovered": false
+    },
+    {
+      "text": "Pirate Ship",
+      "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Captain",
+      "emoji": "\ud83e\uddd1\u200d\u2708\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Dusty",
+      "emoji": "\ud83c\udf2b\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Blackbeard",
+      "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Behead",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Head",
+      "emoji": "\ud83d\udc86",
+      "discovered": false
+    },
+    {
+      "text": "Skull",
+      "emoji": "\ud83d\udc80",
+      "discovered": false
+    },
+    {
+      "text": "Skeleton",
+      "emoji": "\ud83d\udc80",
+      "discovered": false
+    },
+    {
+      "text": "Decapitate",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Beheading",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Guillotine",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Executioner",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Captain Hook",
+      "emoji": "\ud83e\ude9d",
+      "discovered": false
+    },
+    {
+      "text": "Peter Pan",
+      "emoji": "\ud83c\udf33",
+      "discovered": false
+    },
+    {
+      "text": "Hook",
+      "emoji": "\ud83e\ude9d",
+      "discovered": false
+    },
+    {
+      "text": "Execution",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Body",
+      "emoji": "\ud83d\udc83",
+      "discovered": false
+    },
+    {
+      "text": "Headless",
+      "emoji": "\ud83e\udd2f",
+      "discovered": false
+    },
+    {
+      "text": "Human",
+      "emoji": "\ud83d\udc68",
+      "discovered": false
+    },
+    {
+      "text": "Zombie",
+      "emoji": "\ud83e\udddf",
+      "discovered": false
+    },
+    {
+      "text": "Zombie King",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Zombie Queen",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Zombie Prince",
+      "emoji": "\ud83e\udddf\u200d\u2642\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Pirate King",
+      "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Treasure Map",
+      "emoji": "\ud83d\uddfa\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Friday",
+      "emoji": "\ud83d\udcc5",
+      "discovered": false
+    },
+    {
+      "text": "Good",
+      "emoji": "\ud83d\udc4d",
+      "discovered": false
+    },
+    {
+      "text": "Evil",
+      "emoji": "\ud83d\ude08",
+      "discovered": false
+    },
+    {
+      "text": "Angel",
+      "emoji": "\ud83d\udc7c",
+      "discovered": false
+    },
+    {
+      "text": "Devil",
+      "emoji": "\ud83d\ude08",
+      "discovered": false
+    },
+    {
+      "text": "Cupid",
+      "emoji": "\ud83d\udc98",
+      "discovered": false
+    },
+    {
+      "text": "Demon",
+      "emoji": "\ud83d\udc7f",
+      "discovered": false
+    },
+    {
+      "text": "Satan",
+      "emoji": "\ud83d\ude08",
+      "discovered": false
+    },
+    {
+      "text": "Weekend",
+      "emoji": "\ud83c\udf1e",
+      "discovered": false
+    },
+    {
+      "text": "Party",
+      "emoji": "\ud83c\udf89",
+      "discovered": false
+    },
+    {
+      "text": "Heaven",
+      "emoji": "\ud83c\udf0c",
+      "discovered": false
+    },
+    {
+      "text": "Vacation",
+      "emoji": "\ud83c\udfd6\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Paradise",
+      "emoji": "\ud83c\udfdd\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Spring Break",
+      "emoji": "\ud83c\udf34",
+      "discovered": false
+    },
+    {
+      "text": "Hell",
+      "emoji": "\ud83d\udc7f",
+      "discovered": false
+    },
+    {
+      "text": "Henry VIII",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Cherub",
+      "emoji": "\ud83d\udc7c",
+      "discovered": false
+    },
+    {
+      "text": "Zombie Captain Hook",
+      "emoji": "\ud83e\udddf\u200d\u2642\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Zombie Poseidon",
+      "emoji": "\ud83e\udddf\u200d\u2642\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Sith",
+      "emoji": "\ud83c\udf0c",
+      "discovered": false
+    },
+    {
+      "text": "Darth Vader",
+      "emoji": "\ud83d\ude08",
+      "discovered": false
+    },
+    {
+      "text": "Sith Lord",
+      "emoji": "\ud83c\udf0c",
+      "discovered": false
+    },
+    {
+      "text": "Darth Maul",
+      "emoji": "\ud83c\udf0c",
+      "discovered": false
+    },
+    {
+      "text": "Emperor",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Jones",
+      "emoji": "\ud83d\udc85",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Evil",
+      "emoji": "\ud83d\udc7f",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Jones: The Edge of Reason",
+      "emoji": "\ud83d\udc8b",
+      "discovered": false
+    },
+    {
+      "text": "Idol",
+      "emoji": "\ud83d\udc51",
+      "discovered": false
+    },
+    {
+      "text": "God",
+      "emoji": "\ud83c\udf0c",
+      "discovered": false
+    },
+    {
+      "text": "Odd",
+      "emoji": "\ud83d\udc7d",
+      "discovered": false
+    },
+    {
+      "text": "Even",
+      "emoji": "\ud83d\ude10",
+      "discovered": false
+    },
+    {
+      "text": "Number",
+      "emoji": "\ud83d\udd22",
+      "discovered": false
+    },
+    {
+      "text": "Prime",
+      "emoji": "\ud83d\udce6",
+      "discovered": false
+    },
+    {
+      "text": "10",
+      "emoji": "\ud83d\udd1f",
+      "discovered": false
+    },
+    {
+      "text": "11",
+      "emoji": "\ud83d\udd1f",
+      "discovered": false
+    },
+    {
+      "text": "12",
+      "emoji": "\ud83d\udd1f",
+      "discovered": false
+    },
+    {
+      "text": "Dozen",
+      "emoji": "\ud83c\udf52",
+      "discovered": false
+    },
+    {
+      "text": "Baker\u2019s Dozen",
+      "emoji": "\ud83e\udd50",
+      "discovered": false
+    },
+    {
+      "text": "Baker\u2019s Gross",
+      "emoji": "\ud83e\udd22",
+      "discovered": false
+    },
+    {
+      "text": "Baker\u2019s Hundred",
+      "emoji": "\ud83d\udcb2",
+      "discovered": false
+    },
+    {
+      "text": "Baker\u2019s Hundred and Thirteen",
+      "emoji": "\ud83c\udf70",
+      "discovered": false
+    },
+    {
+      "text": "Incense",
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Prayer",
+      "emoji": "\ud83d\ude4f",
+      "discovered": false
+    },
+    {
+      "text": "Saint",
+      "emoji": "\ud83d\ude07",
+      "discovered": false
+    },
+    {
+      "text": "Holy Water",
+      "emoji": "\ud83d\udca6",
+      "discovered": false
+    },
+    {
+      "text": "Candle",
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Spirit",
+      "emoji": "\ud83d\udc7b",
+      "discovered": false
+    },
+    {
+      "text": "Bible",
+      "emoji": "\ud83d\udcd6",
+      "discovered": false
+    },
+    {
+      "text": "Temple",
+      "emoji": "\ud83c\udfef",
+      "discovered": false
+    },
+    {
+      "text": "Sacrifice",
+      "emoji": "\ud83d\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Barbeque",
+      "emoji": "\ud83c\udf56",
+      "discovered": false
+    },
+    {
+      "text": "Baal",
+      "emoji": "\ud83d\udc79",
+      "discovered": false
+    },
+    {
+      "text": "Apple",
+      "emoji": "\ud83c\udf4e",
+      "discovered": false
+    },
+    {
+      "text": "Adam",
+      "emoji": "\ud83d\udc68",
+      "discovered": false
+    },
+    {
+      "text": "Eve",
+      "emoji": "\ud83c\udf19",
+      "discovered": false
+    },
+    {
+      "text": "Ribs",
+      "emoji": "\ud83c\udf56",
+      "discovered": false
+    },
+    {
+      "text": "Christmas",
+      "emoji": "\ud83c\udf84",
+      "discovered": false
+    },
+    {
+      "text": "Teen",
+      "emoji": "\ud83d\udc76",
+      "discovered": false
+    },
+    {
+      "text": "Pope",
+      "emoji": "\ud83d\udd4d",
+      "discovered": false
+    },
+    {
+      "text": "Sabbath",
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Sabbatical",
+      "emoji": "\ud83c\udfd6\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Saint",
+      "emoji": "\ud83d\udc70\u200d\u2640\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "13",
+      "emoji": "\ud83d\udd33",
+      "discovered": false
+    },
+    {
+      "text": "25",
+      "emoji": "\ud83d\udca1",
+      "discovered": false
+    },
+    {
+      "text": "38",
+      "emoji": "\ud83d\udca9",
+      "discovered": false
+    },
+    {
+      "text": "51",
+      "emoji": "\ufe0f\u20e3\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "52",
+      "emoji": "\ud83c\udfb1",
+      "discovered": false
+    },
+    {
+      "text": "Santa",
+      "emoji": "\ud83c\udf85",
+      "discovered": false
+    },
+    {
+      "text": "Sponge",
+      "emoji": "\ud83e\uddfd",
+      "discovered": false
+    },
+    {
+      "text": "SpongeBob",
+      "emoji": "\ud83c\udf4d",
+      "discovered": false
+    },
+    {
+      "text": "Squidward",
+      "emoji": "\ud83e\udd91",
+      "discovered": false
+    },
+    {
+      "text": "SpongeBob SquarePants",
+      "emoji": "\ud83c\udf4d",
+      "discovered": false
+    },
+    {
+      "text": "Squid Devil",
+      "emoji": "\ud83e\udd91",
+      "discovered": false
+    },
+    {
+      "text": "Cthulhu",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Spongepants",
+      "emoji": "\ud83e\uddfd\ud83d\udc56",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Cthulhu",
+      "emoji": "\ud83e\udd91",
+      "discovered": false
+    },
+    {
+      "text": "42",
+      "emoji": "\ud83d\udd22",
+      "discovered": false
+    },
+    {
+      "text": "84 (42 is the answer to life, the universe, and everything)",
+      "emoji": "\ud83d\udd22",
+      "discovered": false
+    },
+    {
+      "text": "Answer",
+      "emoji": "\ud83d\udd0d",
+      "discovered": false
+    },
+    {
+      "text": "Life",
+      "emoji": "\ud83c\udf31",
+      "discovered": false
+    },
+    {
+      "text": "Truth",
+      "emoji": "\ud83d\udcac",
+      "discovered": false
+    },
+    {
+      "text": "Squarepants",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Dust Bowl",
+      "emoji": "\ud83c\udf2a\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Monopoly",
+      "emoji": "\ud83c\udfb2",
+      "discovered": false
+    },
+    {
+      "text": "Jewel",
+      "emoji": "\ud83d\udc8e",
+      "discovered": false
+    },
+    {
+      "text": "Genius",
+      "emoji": "\ud83e\udde0",
+      "discovered": false
+    },
+    {
+      "text": "Holiday",
+      "emoji": "\ud83c\udf84",
+      "discovered": false
+    },
+    {
+      "text": "John the Baptist",
+      "emoji": "\ud83d\udc0d",
+      "discovered": false
+    },
+    {
+      "text": "Bridget",
+      "emoji": "\ud83d\udc69\u200d\ud83e\uddb0",
+      "discovered": false
+    },
+    {
+      "text": "Brigid",
+      "emoji": "\ud83c\udf1e",
+      "discovered": false
+    },
+    {
+      "text": "Patrick",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Spongebob",
+      "emoji": "\ud83c\udf4d",
+      "discovered": false
+    },
+    {
+      "text": "Spongebob Squarepants",
+      "emoji": "\ud83c\udf4d",
+      "discovered": false
+    },
+    {
+      "text": "Squidmas",
+      "emoji": "\ud83e\udd91",
+      "discovered": false
+    },
+    {
+      "text": "Squid Saint",
+      "emoji": "\ud83e\udd91\u26ea\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Squid",
+      "emoji": "\ud83e\udd91",
+      "discovered": false
+    },
+    {
+      "text": "Octopus",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Madness",
+      "emoji": "\ud83e\udd2a",
+      "discovered": false
+    },
+    {
+      "text": "Splitting Image",
+      "emoji": "\ud83d\udc6f",
+      "discovered": false
+    },
+    {
+      "text": "Clone",
+      "emoji": "\ud83d\udc6c",
+      "discovered": false
+    },
+    {
+      "text": "Octoclone",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Jesus",
+      "emoji": "\ud83d\ude07",
+      "discovered": false
+    },
+    {
+      "text": "Sponge Jesus",
+      "emoji": "\ud83d\udca6",
+      "discovered": false
+    },
+    {
+      "text": "Cthulhu Jesus",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Christianity",
+      "emoji": "\u271d\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Cthulhuism",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Baptism",
+      "emoji": "\ud83d\udca6",
+      "discovered": false
+    },
+    {
+      "text": "Catholicism",
+      "emoji": "\u26ea",
+      "discovered": false
+    },
+    {
+      "text": "Catholic",
+      "emoji": "\u26ea",
+      "discovered": false
+    },
+    {
+      "text": "Santa Claus",
+      "emoji": "\ud83c\udf85",
+      "discovered": false
+    },
+    {
+      "text": "Cultist",
+      "emoji": "\ud83d\udc7a",
+      "discovered": false
+    },
+    {
+      "text": "Cthulhumas",
+      "emoji": "\ud83c\udf84",
+      "discovered": false
+    },
+    {
+      "text": "Priest",
+      "emoji": "\ud83d\udc7c",
+      "discovered": false
+    },
+    {
+      "text": "Church",
+      "emoji": "\u26ea",
+      "discovered": false
+    },
+    {
+      "text": "Vatican",
+      "emoji": "\ud83d\udd4d",
+      "discovered": false
+    },
+    {
+      "text": "Exorcist",
+      "emoji": "\ud83d\udc7b",
+      "discovered": false
+    },
+    {
+      "text": "Lunatic",
+      "emoji": "\ud83c\udf1a",
+      "discovered": false
+    },
+    {
+      "text": "Christian",
+      "emoji": "\u271d\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Crusader",
+      "emoji": "\u2694\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Knight",
+      "emoji": "\ud83e\udd34",
+      "discovered": false
+    },
+    {
+      "text": "Dragon",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Paladin",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Crusade",
+      "emoji": "\ud83c\udff9",
+      "discovered": false
+    },
+    {
+      "text": "Templar",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Sponge Satan",
+      "emoji": "\ud83d\udc7f",
+      "discovered": false
+    },
+    {
+      "text": "Dragonborn",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Dovahkiin",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Bridget Christian",
+      "emoji": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "discovered": false
+    },
+    {
+      "text": "Martyr",
+      "emoji": "\ud83d\udca5",
+      "discovered": false
+    },
+    {
+      "text": "Cross",
+      "emoji": "\u271d\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Creationist",
+      "emoji": "\ud83c\udf0e",
+      "discovered": false
+    },
+    {
+      "text": "Crucifix",
+      "emoji": "\u271d\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Evolution",
+      "emoji": "\ud83e\udd96",
+      "discovered": false
+    },
+    {
+      "text": "Dinosaur",
+      "emoji": "\ud83e\udd96",
+      "discovered": false
+    },
+    {
+      "text": "Cthulhuist",
+      "emoji": "\ud83d\udc19",
+      "discovered": false
+    },
+    {
+      "text": "Eucharist",
+      "emoji": "\ud83c\udf5e",
+      "discovered": false
+    },
+    {
+      "text": "Christmas Tree",
+      "emoji": "\ud83c\udf84",
+      "discovered": false
+    },
+    {
+      "text": "Dragon Egg",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Saint George",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Sword",
+      "emoji": "\ud83d\udde1\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Warrior",
+      "emoji": "\ud83d\udde1\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Christ",
+      "emoji": "\ud83d\udc7c",
+      "discovered": false
+    },
+    {
+      "text": "Transubstantiation",
+      "emoji": "\ud83c\udf77",
+      "discovered": false
+    },
+    {
+      "text": "Ichthus",
+      "emoji": "\ud83d\udc1f",
+      "discovered": false
+    },
+    {
+      "text": "Moby Dick",
+      "emoji": "\ud83d\udc33",
+      "discovered": false
+    },
+    {
+      "text": "Captain Ahab",
+      "emoji": "\ud83d\udc33",
+      "discovered": false
+    },
+    {
+      "text": "Jolly Roger",
+      "emoji": "\u2620\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Piranha",
+      "emoji": "\ud83d\udc1f",
+      "discovered": false
+    },
+    {
+      "text": "Drogon",
+      "emoji": "\ud83d\udc09",
+      "discovered": false
+    },
+    {
+      "text": "Viking",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Longboat",
+      "emoji": "\ud83d\udea3",
+      "discovered": false
+    },
+    {
+      "text": "Berserker",
+      "emoji": "\ud83e\udd2f",
+      "discovered": false
+    },
+    {
+      "text": "Fishing",
+      "emoji": "\ud83c\udfa3",
+      "discovered": false
+    },
+    {
+      "text": "Fisherman",
+      "emoji": "\ud83c\udfa3",
+      "discovered": false
+    },
+    {
+      "text": "Werewolf",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Vampire",
+      "emoji": "\ud83e\udddb",
+      "discovered": false
+    },
+    {
+      "text": "Were-Christian",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-vampire",
+      "emoji": "\ud83e\udddb\u200d\u2640\ufe0f",
+      "discovered": false
+    },
+    {
+      "text": "Were-vampwolf",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-wolf",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-wolf-vampire",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-vampwolf-vampire",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-vampwolf-vampire-wolf",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-vampwolf-vampire-wolf-vampwolf",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Twilight",
+      "emoji": "\ud83c\udf19",
+      "discovered": false
+    },
+    {
+      "text": "Retirement",
+      "emoji": "\ud83d\udc74",
+      "discovered": false
+    },
+    {
+      "text": "Sunset",
+      "emoji": "\ud83c\udf05",
+      "discovered": false
+    },
+    {
+      "text": "Night",
+      "emoji": "\ud83c\udf03",
+      "discovered": false
+    },
+    {
+      "text": "Moon",
+      "emoji": "\ud83c\udf19",
+      "discovered": false
+    },
+    {
+      "text": "Were-tired",
+      "emoji": "\ud83d\ude34\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Werebear",
+      "emoji": "\ud83d\udc3b",
+      "discovered": false
+    },
+    {
+      "text": "Were-Shark",
+      "emoji": "\ud83e\udd88",
+      "discovered": false
+    },
+    {
+      "text": "Wolfman",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Were-T-Rex",
+      "emoji": "\ud83e\udd96",
+      "discovered": false
+    },
+    {
+      "text": "Werepirate",
+      "emoji": "\ud83d\udc3a",
+      "discovered": false
+    },
+    {
+      "text": "Werebread",
+      "emoji": "\ud83c\udf5e",
+      "discovered": false
+    },
+    {
+      "text": "Werefish",
+      "emoji": "\ud83d\udc1f",
+      "discovered": false
+    }
+  ],
+  "pinned": [],
+  "recipes": {
+    "10": [
+      [
+        {
+          "text": "Idol",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ]
+    ],
+    "11": [
+      [
+        {
+          "text": "10",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "12": [
+      [
+        {
+          "text": "11",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ],
+      [
+        {
+          "text": "Dozen",
+          "emoji": "\ud83c\udf52"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "13": [
+      [
+        {
+          "text": "12",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Bridget Evil",
+          "emoji": "\ud83d\udc7f"
+        }
+      ]
+    ],
+    "25": [
+      [
+        {
+          "text": "12",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        }
+      ]
+    ],
+    "38": [
+      [
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        },
+        {
+          "text": "25",
+          "emoji": "\ud83d\udca1"
+        }
+      ]
+    ],
+    "42": [
+      [
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        },
+        {
+          "text": "SpongeBob SquarePants",
+          "emoji": "\ud83c\udf4d"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Holy Water",
+          "emoji": "\ud83d\udca6"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Bridget Cthulhu",
+          "emoji": "\ud83e\udd91"
+        }
+      ]
+    ],
+    "51": [
+      [
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        },
+        {
+          "text": "38",
+          "emoji": "\ud83d\udca9"
+        }
+      ]
+    ],
+    "52": [
+      [
+        {
+          "text": "51",
+          "emoji": "\ufe0f\u20e3\ufe0f"
+        },
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        }
+      ]
+    ],
+    "Steam": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Lake": [
+      [
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Wave": [
+      [
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Surf",
+          "emoji": "\ud83c\udfc4"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Storm": [
+      [
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ]
+    ],
+    "Lily": [
+      [
+        {
+          "text": "Lake",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        }
+      ]
+    ],
+    "Seaweed": [
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        }
+      ]
+    ],
+    "Surf": [
+      [
+        {
+          "text": "Seaweed",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        }
+      ]
+    ],
+    "Surfer": [
+      [
+        {
+          "text": "Surf",
+          "emoji": "\ud83c\udfc4"
+        },
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        }
+      ]
+    ],
+    "Ash": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Paper",
+          "emoji": "\ud83d\udcc3"
+        }
+      ]
+    ],
+    "Engine": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Steam",
+          "emoji": "\ud83d\udca8"
+        }
+      ]
+    ],
+    "Train": [
+      [
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        },
+        {
+          "text": "Steam",
+          "emoji": "\ud83d\udca8"
+        }
+      ]
+    ],
+    "Tractor": [
+      [
+        {
+          "text": "Earth",
+          "emoji": "\ud83c\udf0d"
+        },
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        }
+      ],
+      [
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        },
+        {
+          "text": "Farmer",
+          "emoji": "\ud83d\ude9c"
+        }
+      ]
+    ],
+    "Farm": [
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Tractor",
+          "emoji": "\ud83d\ude9c"
+        }
+      ]
+    ],
+    "Village": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        }
+      ]
+    ],
+    "Food": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        }
+      ]
+    ],
+    "Meal": [
+      [
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        }
+      ]
+    ],
+    "Market": [
+      [
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Village",
+          "emoji": "\ud83c\udfe1"
+        }
+      ]
+    ],
+    "Field": [
+      [
+        {
+          "text": "Earth",
+          "emoji": "\ud83c\udf0d"
+        },
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        }
+      ]
+    ],
+    "Surf and Turf": [
+      [
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Surf",
+          "emoji": "\ud83c\udfc4"
+        }
+      ]
+    ],
+    "Fuel": [
+      [
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        },
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        }
+      ],
+      [
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Oil",
+          "emoji": "\ud83d\udee2\ufe0f"
+        }
+      ]
+    ],
+    "Pizza": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        }
+      ],
+      [
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Corn": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Field",
+          "emoji": "\ud83c\udf3e"
+        }
+      ]
+    ],
+    "Soil": [
+      [
+        {
+          "text": "Ash",
+          "emoji": "\ud83c\udf0b"
+        },
+        {
+          "text": "Earth",
+          "emoji": "\ud83c\udf0d"
+        }
+      ]
+    ],
+    "Dirt": [
+      [
+        {
+          "text": "Soil",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Soil",
+          "emoji": "\ud83c\udf31"
+        }
+      ],
+      [
+        {
+          "text": "Dirt",
+          "emoji": "\ud83d\udca9"
+        },
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        }
+      ]
+    ],
+    "Barbecue": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        }
+      ],
+      [
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Grill",
+          "emoji": "\ud83c\udf56"
+        }
+      ]
+    ],
+    "Grill": [
+      [
+        {
+          "text": "Barbecue",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Barbecue",
+          "emoji": "\ud83c\udf56"
+        }
+      ]
+    ],
+    "Meat": [
+      [
+        {
+          "text": "Barbecue",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        }
+      ]
+    ],
+    "Burger": [
+      [
+        {
+          "text": "Food",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Meat",
+          "emoji": "\ud83c\udf56"
+        }
+      ],
+      [
+        {
+          "text": "Cow",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        }
+      ]
+    ],
+    "Cow": [
+      [
+        {
+          "text": "Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        }
+      ],
+      [
+        {
+          "text": "Barbecue",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        }
+      ]
+    ],
+    "Milk": [
+      [
+        {
+          "text": "Ash",
+          "emoji": "\ud83c\udf0b"
+        },
+        {
+          "text": "Cow",
+          "emoji": "\ud83d\udc04"
+        }
+      ]
+    ],
+    "Dust": [
+      [
+        {
+          "text": "Earth",
+          "emoji": "\ud83c\udf0d"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Smoke",
+          "emoji": "\ud83d\udca8"
+        }
+      ]
+    ],
+    "Burnt Burger": [
+      [
+        {
+          "text": "Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        }
+      ]
+    ],
+    "Surfboard": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Surfer",
+          "emoji": "\ud83c\udfc4"
+        }
+      ]
+    ],
+    "Town": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Village",
+          "emoji": "\ud83c\udfe1"
+        }
+      ]
+    ],
+    "Cornfield": [
+      [
+        {
+          "text": "Corn",
+          "emoji": "\ud83c\udf3d"
+        },
+        {
+          "text": "Village",
+          "emoji": "\ud83c\udfe1"
+        }
+      ]
+    ],
+    "Cheese": [
+      [
+        {
+          "text": "Cow",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        }
+      ],
+      [
+        {
+          "text": "Captain",
+          "emoji": "\ud83e\uddd1\u200d\u2708\ufe0f"
+        },
+        {
+          "text": "Cheese",
+          "emoji": "\ud83e\uddc0"
+        }
+      ]
+    ],
+    "Smoke": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Incense",
+          "emoji": "\ud83d\udd6f\ufe0f"
+        }
+      ]
+    ],
+    "Sand": [
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        }
+      ]
+    ],
+    "Sandstorm": [
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ]
+    ],
+    "Vacuum": [
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        }
+      ]
+    ],
+    "Ghost Town": [
+      [
+        {
+          "text": "Vacuum",
+          "emoji": "\ud83e\uddf9"
+        },
+        {
+          "text": "Village",
+          "emoji": "\ud83c\udfe1"
+        }
+      ],
+      [
+        {
+          "text": "Ghost Town",
+          "emoji": "\ud83c\udfdc\ufe0f"
+        },
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        }
+      ],
+      [
+        {
+          "text": "Ghost",
+          "emoji": "\ud83d\udc7b"
+        },
+        {
+          "text": "Megatropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ]
+    ],
+    "City": [
+      [
+        {
+          "text": "Town",
+          "emoji": "\ud83c\udfe1"
+        },
+        {
+          "text": "Town",
+          "emoji": "\ud83c\udfe1"
+        }
+      ],
+      [
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Town",
+          "emoji": "\ud83c\udfe1"
+        }
+      ],
+      [
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        },
+        {
+          "text": "Town",
+          "emoji": "\ud83c\udfe1"
+        }
+      ]
+    ],
+    "Metropolis": [
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Town",
+          "emoji": "\ud83c\udfe1"
+        }
+      ],
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        }
+      ]
+    ],
+    "Megalopolis": [
+      [
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        },
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        }
+      ]
+    ],
+    "Ghost": [
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Ghost Town",
+          "emoji": "\ud83c\udfdc\ufe0f"
+        }
+      ]
+    ],
+    "Gotham": [
+      [
+        {
+          "text": "Ghost",
+          "emoji": "\ud83d\udc7b"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ]
+    ],
+    "Megatropolis": [
+      [
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Megatropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        },
+        {
+          "text": "Megatropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ]
+    ],
+    "New York": [
+      [
+        {
+          "text": "Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        }
+      ]
+    ],
+    "Las Vegas": [
+      [
+        {
+          "text": "Ghost Town",
+          "emoji": "\ud83c\udfdc\ufe0f"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        },
+        {
+          "text": "Metropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        },
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        }
+      ]
+    ],
+    "Casino": [
+      [
+        {
+          "text": "Ghost",
+          "emoji": "\ud83d\udc7b"
+        },
+        {
+          "text": "Las Vegas",
+          "emoji": "\ud83c\udfb0"
+        }
+      ],
+      [
+        {
+          "text": "Casino",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Casino",
+          "emoji": "\ud83c\udfb0"
+        }
+      ],
+      [
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        },
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        }
+      ],
+      [
+        {
+          "text": "Las Vegas",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        }
+      ],
+      [
+        {
+          "text": "Las Vegas",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Money",
+          "emoji": "\ud83d\udcb5"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        }
+      ]
+    ],
+    "Money": [
+      [
+        {
+          "text": "Casino",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Las Vegas",
+          "emoji": "\ud83c\udfb0"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Farmer",
+          "emoji": "\ud83d\ude9c"
+        }
+      ]
+    ],
+    "Gambler": [
+      [
+        {
+          "text": "Casino",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Money",
+          "emoji": "\ud83d\udcb5"
+        }
+      ]
+    ],
+    "Rich": [
+      [
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        },
+        {
+          "text": "Money",
+          "emoji": "\ud83d\udcb5"
+        }
+      ],
+      [
+        {
+          "text": "Gambler",
+          "emoji": "\ud83c\udfb2"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ]
+    ],
+    "Richer": [
+      [
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        },
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        }
+      ]
+    ],
+    "Richest": [
+      [
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        },
+        {
+          "text": "Richer",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ]
+    ],
+    "Gold": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Midas",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Midas",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Midas",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Gold Bar",
+          "emoji": "\ud83d\udcb5"
+        },
+        {
+          "text": "Gold Shake",
+          "emoji": "\ud83d\udc9b"
+        }
+      ],
+      [
+        {
+          "text": "Gold Shake",
+          "emoji": "\ud83d\udc9b"
+        },
+        {
+          "text": "Midas",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Treasure Chest",
+          "emoji": "\ud83d\udddd\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Engineer",
+          "emoji": "\ud83d\udc77"
+        },
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Midas",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Billionaire": [
+      [
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Surfer",
+          "emoji": "\ud83c\udfc4"
+        }
+      ],
+      [
+        {
+          "text": "Paper",
+          "emoji": "\ud83d\udcc3"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ]
+    ],
+    "Farmer": [
+      [
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Tractor",
+          "emoji": "\ud83d\ude9c"
+        }
+      ]
+    ],
+    "Trump": [
+      [
+        {
+          "text": "New York",
+          "emoji": "\ud83d\uddfd"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Casino",
+          "emoji": "\ud83c\udfb0"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Billionaire",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Gold Shake",
+          "emoji": "\ud83d\udc9b"
+        }
+      ]
+    ],
+    "Bill Gates": [
+      [
+        {
+          "text": "Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ]
+    ],
+    "Diamond": [
+      [
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Rock",
+          "emoji": "\ud83e\udea8"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        },
+        {
+          "text": "Stone",
+          "emoji": "\ud83e\udea8"
+        }
+      ]
+    ],
+    "Diamond Block": [
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        }
+      ]
+    ],
+    "Milkshake": [
+      [
+        {
+          "text": "Milk",
+          "emoji": "\ud83e\udd5b"
+        },
+        {
+          "text": "Rich",
+          "emoji": "\ud83d\udcb0"
+        }
+      ]
+    ],
+    "Midas": [
+      [
+        {
+          "text": "Cheese",
+          "emoji": "\ud83e\uddc0"
+        },
+        {
+          "text": "Gold",
+          "emoji": "\ud83d\udc9b"
+        }
+      ],
+      [
+        {
+          "text": "Gold Ingot",
+          "emoji": "\ud83e\ude99"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Billionaire",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Statue",
+          "emoji": "\ud83d\uddfd"
+        }
+      ]
+    ],
+    "Gold Bar": [
+      [
+        {
+          "text": "Gold",
+          "emoji": "\ud83d\udc9b"
+        },
+        {
+          "text": "Gold",
+          "emoji": "\ud83d\udc9b"
+        }
+      ],
+      [
+        {
+          "text": "Gold Ingot",
+          "emoji": "\ud83e\ude99"
+        },
+        {
+          "text": "Gold Ingot",
+          "emoji": "\ud83e\ude99"
+        }
+      ],
+      [
+        {
+          "text": "Gold",
+          "emoji": "\ud83d\udc9b"
+        },
+        {
+          "text": "Gold Ingot",
+          "emoji": "\ud83e\ude99"
+        }
+      ]
+    ],
+    "Gold Ingot": [
+      [
+        {
+          "text": "Gold Bar",
+          "emoji": "\ud83d\udcb5"
+        },
+        {
+          "text": "Gold Bar",
+          "emoji": "\ud83d\udcb5"
+        }
+      ]
+    ],
+    "Gold Shake": [
+      [
+        {
+          "text": "Gold Bar",
+          "emoji": "\ud83d\udcb5"
+        },
+        {
+          "text": "Milkshake",
+          "emoji": "\ud83e\udd64"
+        }
+      ]
+    ],
+    "Engineer": [
+      [
+        {
+          "text": "Engine",
+          "emoji": "\ud83d\ude97"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ]
+    ],
+    "Fossil": [
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Stone",
+          "emoji": "\ud83e\udea8"
+        }
+      ]
+    ],
+    "Oil": [
+      [
+        {
+          "text": "Fossil",
+          "emoji": "\ud83e\uddb4"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ],
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Saudi Arabia": [
+      [
+        {
+          "text": "Oil",
+          "emoji": "\ud83d\udee2\ufe0f"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ],
+      [
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Farmville": [
+      [
+        {
+          "text": "Farm",
+          "emoji": "\ud83d\udc04"
+        },
+        {
+          "text": "Megatropolis",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        }
+      ]
+    ],
+    "Ocean": [
+      [
+        {
+          "text": "Lake",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Fish": [
+      [
+        {
+          "text": "Ocean",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ],
+      [
+        {
+          "text": "Fishbowl",
+          "emoji": "\ud83d\udc20"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Fishbowl": [
+      [
+        {
+          "text": "Fish",
+          "emoji": "\ud83d\udc1f"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Shark": [
+      [
+        {
+          "text": "Fish",
+          "emoji": "\ud83d\udc1f"
+        },
+        {
+          "text": "Fish",
+          "emoji": "\ud83d\udc1f"
+        }
+      ],
+      [
+        {
+          "text": "Fish",
+          "emoji": "\ud83d\udc1f"
+        },
+        {
+          "text": "Whale",
+          "emoji": "\ud83d\udc33"
+        }
+      ]
+    ],
+    "Whale": [
+      [
+        {
+          "text": "Shark",
+          "emoji": "\ud83e\udd88"
+        },
+        {
+          "text": "Shark",
+          "emoji": "\ud83e\udd88"
+        }
+      ],
+      [
+        {
+          "text": "Whale",
+          "emoji": "\ud83d\udc33"
+        },
+        {
+          "text": "Whale",
+          "emoji": "\ud83d\udc33"
+        }
+      ]
+    ],
+    "Megalodon": [
+      [
+        {
+          "text": "Shark",
+          "emoji": "\ud83e\udd88"
+        },
+        {
+          "text": "Whale",
+          "emoji": "\ud83d\udc33"
+        }
+      ]
+    ],
+    "Tsunami": [
+      [
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Wave",
+          "emoji": "\ud83c\udf0a"
+        }
+      ]
+    ],
+    "Ring": [
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Gold",
+          "emoji": "\ud83d\udc9b"
+        }
+      ],
+      [
+        {
+          "text": "Billionaire",
+          "emoji": "\ud83d\udcb8"
+        },
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Wedding",
+          "emoji": "\ud83d\udc70"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        }
+      ]
+    ],
+    "Engagement": [
+      [
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Ring",
+          "emoji": "\ud83d\udc8d"
+        }
+      ]
+    ],
+    "Marriage": [
+      [
+        {
+          "text": "Engagement",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Engagement",
+          "emoji": "\ud83d\udc8d"
+        }
+      ],
+      [
+        {
+          "text": "Prenup",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Ring",
+          "emoji": "\ud83d\udc8d"
+        }
+      ],
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Wedding",
+          "emoji": "\ud83d\udc70"
+        }
+      ]
+    ],
+    "Divorce": [
+      [
+        {
+          "text": "Marriage",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Marriage",
+          "emoji": "\ud83d\udc8d"
+        }
+      ],
+      [
+        {
+          "text": "Prenup",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Prenup",
+          "emoji": "\ud83d\udc8d"
+        }
+      ],
+      [
+        {
+          "text": "Marriage",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Wedding",
+          "emoji": "\ud83d\udc70"
+        }
+      ]
+    ],
+    "Prenup": [
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        }
+      ]
+    ],
+    "Wedding": [
+      [
+        {
+          "text": "Marriage",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Richest",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        }
+      ]
+    ],
+    "Disaster": [
+      [
+        {
+          "text": "Tsunami",
+          "emoji": "\ud83c\udf0a"
+        },
+        {
+          "text": "Wedding",
+          "emoji": "\ud83d\udc70"
+        }
+      ]
+    ],
+    "Jewelry": [
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        }
+      ]
+    ],
+    "Treasure": [
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "Diamond Block",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "City",
+          "emoji": "\ud83c\udfd9\ufe0f"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Chest": [
+      [
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        }
+      ]
+    ],
+    "Treasure Chest": [
+      [
+        {
+          "text": "Chest",
+          "emoji": "\ud83d\uddc3\ufe0f"
+        },
+        {
+          "text": "Chest",
+          "emoji": "\ud83d\uddc3\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Treasure Chest",
+          "emoji": "\ud83d\udddd\ufe0f"
+        },
+        {
+          "text": "Treasure Chest",
+          "emoji": "\ud83d\udddd\ufe0f"
+        }
+      ]
+    ],
+    "Pirate": [
+      [
+        {
+          "text": "Ring",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Treasure Chest",
+          "emoji": "\ud83d\udddd\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Treasure Chest",
+          "emoji": "\ud83d\udddd\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Mummy",
+          "emoji": "\ud83e\udddf"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Wedding",
+          "emoji": "\ud83d\udc70"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Megalodon",
+          "emoji": "\ud83e\udd88"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Trump",
+          "emoji": "\ud83d\udca9"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Bill Gates",
+          "emoji": "\ud83d\udcb8"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Engineer",
+          "emoji": "\ud83d\udc77"
+        }
+      ],
+      [
+        {
+          "text": "Captain",
+          "emoji": "\ud83e\uddd1\u200d\u2708\ufe0f"
+        },
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        }
+      ],
+      [
+        {
+          "text": "Milkshake",
+          "emoji": "\ud83e\udd64"
+        },
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Ghost",
+          "emoji": "\ud83d\udc7b"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Cheese",
+          "emoji": "\ud83e\uddc0"
+        }
+      ],
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Dusty",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Blackbeard",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Pirate Ship",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Captain Hook",
+          "emoji": "\ud83e\ude9d"
+        },
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Hook",
+          "emoji": "\ud83e\ude9d"
+        }
+      ],
+      [
+        {
+          "text": "Pirate Ship",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        }
+      ],
+      [
+        {
+          "text": "Blackbeard",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Skull",
+          "emoji": "\ud83d\udc80"
+        }
+      ],
+      [
+        {
+          "text": "Paper",
+          "emoji": "\ud83d\udcc3"
+        },
+        {
+          "text": "Treasure Map",
+          "emoji": "\ud83d\uddfa\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Captain Hook",
+          "emoji": "\ud83e\ude9d"
+        },
+        {
+          "text": "Headless",
+          "emoji": "\ud83e\udd2f"
+        }
+      ],
+      [
+        {
+          "text": "Blackbeard",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "AARRRRRRRRRRRRRRRRRRR": [
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Crown": [
+      [
+        {
+          "text": "Ring",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Ring",
+          "emoji": "\ud83d\udc8d"
+        }
+      ]
+    ],
+    "King": [
+      [
+        {
+          "text": "Crown",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Crown",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Emperor",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Castle": [
+      [
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Palace",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "Palace",
+          "emoji": "\ud83c\udff0"
+        }
+      ]
+    ],
+    "Palace": [
+      [
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        }
+      ]
+    ],
+    "Queen": [
+      [
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Crown",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        }
+      ]
+    ],
+    "Love": [
+      [
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        }
+      ],
+      [
+        {
+          "text": "Cupid",
+          "emoji": "\ud83d\udc98"
+        },
+        {
+          "text": "Spring Break",
+          "emoji": "\ud83c\udf34"
+        }
+      ]
+    ],
+    "Hate": [
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        },
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        }
+      ]
+    ],
+    "ISIS": [
+      [
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Pharaoh": [
+      [
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        },
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Emperor",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Pyramid",
+          "emoji": "\ud83d\uddff"
+        }
+      ]
+    ],
+    "Egypt": [
+      [
+        {
+          "text": "Crown",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        }
+      ],
+      [
+        {
+          "text": "Pyramid",
+          "emoji": "\ud83d\uddff"
+        },
+        {
+          "text": "Sphinx",
+          "emoji": "\ud83d\udc2b"
+        }
+      ]
+    ],
+    "Pyramid": [
+      [
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        }
+      ],
+      [
+        {
+          "text": "Sphinx",
+          "emoji": "\ud83d\udc2b"
+        },
+        {
+          "text": "Sphinx",
+          "emoji": "\ud83d\udc2b"
+        }
+      ],
+      [
+        {
+          "text": "Egypt",
+          "emoji": "\ud83c\uddea\ud83c\uddec"
+        },
+        {
+          "text": "Egypt",
+          "emoji": "\ud83c\uddea\ud83c\uddec"
+        }
+      ],
+      [
+        {
+          "text": "Grave",
+          "emoji": "\ud83e\udea6"
+        },
+        {
+          "text": "Sphinx",
+          "emoji": "\ud83d\udc2b"
+        }
+      ],
+      [
+        {
+          "text": "Castle",
+          "emoji": "\ud83c\udff0"
+        },
+        {
+          "text": "Pharaoh",
+          "emoji": "\ud83d\ude4b"
+        }
+      ]
+    ],
+    "Sphinx": [
+      [
+        {
+          "text": "Egypt",
+          "emoji": "\ud83c\uddea\ud83c\uddec"
+        },
+        {
+          "text": "Pyramid",
+          "emoji": "\ud83d\uddff"
+        }
+      ],
+      [
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        },
+        {
+          "text": "Pharaoh",
+          "emoji": "\ud83d\ude4b"
+        }
+      ]
+    ],
+    "Tomb": [
+      [
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Pyramid",
+          "emoji": "\ud83d\uddff"
+        }
+      ],
+      [
+        {
+          "text": "Grave",
+          "emoji": "\ud83e\udea6"
+        },
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        }
+      ],
+      [
+        {
+          "text": "Mummy",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Treasure",
+          "emoji": "\ud83d\udc8e"
+        }
+      ]
+    ],
+    "Grave": [
+      [
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Tomb",
+          "emoji": "\ud83e\udea6"
+        }
+      ],
+      [
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        },
+        {
+          "text": "Tomb",
+          "emoji": "\ud83e\udea6"
+        }
+      ],
+      [
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        },
+        {
+          "text": "Tombstone",
+          "emoji": "\ud83e\udea6"
+        }
+      ]
+    ],
+    "Tombstone": [
+      [
+        {
+          "text": "Grave",
+          "emoji": "\ud83e\udea6"
+        },
+        {
+          "text": "Love",
+          "emoji": "\u2764\ufe0f"
+        }
+      ]
+    ],
+    "Mummy": [
+      [
+        {
+          "text": "Grave",
+          "emoji": "\ud83e\udea6"
+        },
+        {
+          "text": "Pharaoh",
+          "emoji": "\ud83d\ude4b"
+        }
+      ],
+      [
+        {
+          "text": "Jewelry",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Sarcophagus",
+          "emoji": "\ud83e\udea6"
+        }
+      ],
+      [
+        {
+          "text": "Prenup",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Sarcophagus",
+          "emoji": "\ud83e\udea6"
+        }
+      ],
+      [
+        {
+          "text": "Marriage",
+          "emoji": "\ud83d\udc8d"
+        },
+        {
+          "text": "Sarcophagus",
+          "emoji": "\ud83e\udea6"
+        }
+      ]
+    ],
+    "Sarcophagus": [
+      [
+        {
+          "text": "Mummy",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Mummy",
+          "emoji": "\ud83e\udddf"
+        }
+      ]
+    ],
+    "Pirate Ship": [
+      [
+        {
+          "text": "Megalopolis",
+          "emoji": "\ud83c\udf06"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Pirate Ship",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Pirate Ship",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Captain": [
+      [
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Pirate Ship",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Ghost",
+          "emoji": "\ud83d\udc7b"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Nothing": [
+      [
+        {
+          "text": "AARRRRRRRRRRRRRRRRRRR",
+          "emoji": "\ud83e\udd80"
+        },
+        {
+          "text": "Cornfield",
+          "emoji": "\ud83c\udf3d"
+        }
+      ],
+      [
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Party",
+          "emoji": "\ud83c\udf89"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Zombie Captain Hook",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Evil",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Bridget Jones: The Edge of Reason",
+          "emoji": "\ud83d\udc8b"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones: The Edge of Reason",
+          "emoji": "\ud83d\udc8b"
+        },
+        {
+          "text": "Zombie Captain Hook",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Bridget Jones: The Edge of Reason",
+          "emoji": "\ud83d\udc8b"
+        }
+      ],
+      [
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones: The Edge of Reason",
+          "emoji": "\ud83d\udc8b"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Evil",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        },
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        }
+      ],
+      [
+        {
+          "text": "38",
+          "emoji": "\ud83d\udca9"
+        },
+        {
+          "text": "51",
+          "emoji": "\ufe0f\u20e3\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        },
+        {
+          "text": "51",
+          "emoji": "\ufe0f\u20e3\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "52",
+          "emoji": "\ud83c\udfb1"
+        },
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "emoji": "\ud83d\udd33"
+        },
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        },
+        {
+          "text": "Cthulhu",
+          "emoji": "\ud83d\udc19"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        },
+        {
+          "text": "SpongeBob SquarePants",
+          "emoji": "\ud83c\udf4d"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Bridget Saint",
+          "emoji": "\ud83d\udc70\u200d\u2640\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "84 (42 is the answer to life, the universe, and everything)",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Pope",
+          "emoji": "\ud83d\udd4d"
+        }
+      ],
+      [
+        {
+          "text": "84 (42 is the answer to life, the universe, and everything)",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Teen",
+          "emoji": "\ud83d\udc76"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Baker\u2019s Hundred and Thirteen",
+          "emoji": "\ud83c\udf70"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Cthulhu",
+          "emoji": "\ud83e\udd91"
+        },
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        }
+      ]
+    ],
+    "Dusty": [
+      [
+        {
+          "text": "Dust",
+          "emoji": "\ud83c\udf2b\ufe0f"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Blackbeard": [
+      [
+        {
+          "text": "Burnt Burger",
+          "emoji": "\ud83c\udf54"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Behead": [
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Head": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Guillotine",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Headless",
+          "emoji": "\ud83e\udd2f"
+        }
+      ]
+    ],
+    "Skull": [
+      [
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        },
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        }
+      ],
+      [
+        {
+          "text": "Skeleton",
+          "emoji": "\ud83d\udc80"
+        },
+        {
+          "text": "Skeleton",
+          "emoji": "\ud83d\udc80"
+        }
+      ],
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        }
+      ]
+    ],
+    "Skeleton": [
+      [
+        {
+          "text": "Skull",
+          "emoji": "\ud83d\udc80"
+        },
+        {
+          "text": "Skull",
+          "emoji": "\ud83d\udc80"
+        }
+      ]
+    ],
+    "Decapitate": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Beheading": [
+      [
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Guillotine": [
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Execution",
+          "emoji": "\ud83d\udd2a"
+        }
+      ]
+    ],
+    "Executioner": [
+      [
+        {
+          "text": "Guillotine",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Guillotine",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        }
+      ]
+    ],
+    "Captain Hook": [
+      [
+        {
+          "text": "Executioner",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Guillotine",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Captain",
+          "emoji": "\ud83e\uddd1\u200d\u2708\ufe0f"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Peter Pan",
+          "emoji": "\ud83c\udf33"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Henry VIII",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Peter Pan": [
+      [
+        {
+          "text": "Captain Hook",
+          "emoji": "\ud83e\ude9d"
+        },
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        }
+      ]
+    ],
+    "Hook": [
+      [
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Peter Pan",
+          "emoji": "\ud83c\udf33"
+        }
+      ]
+    ],
+    "Execution": [
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Decapitate",
+          "emoji": "\ud83d\udd2a"
+        }
+      ]
+    ],
+    "Body": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        }
+      ],
+      [
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        },
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        }
+      ]
+    ],
+    "Headless": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Body",
+          "emoji": "\ud83d\udc83"
+        }
+      ]
+    ],
+    "Human": [
+      [
+        {
+          "text": "Body",
+          "emoji": "\ud83d\udc83"
+        },
+        {
+          "text": "Head",
+          "emoji": "\ud83d\udc86"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Demon",
+          "emoji": "\ud83d\udc7f"
+        }
+      ],
+      [
+        {
+          "text": "Adam",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Eve",
+          "emoji": "\ud83c\udf19"
+        }
+      ]
+    ],
+    "Zombie": [
+      [
+        {
+          "text": "Headless",
+          "emoji": "\ud83e\udd2f"
+        },
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        }
+      ],
+      [
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Zombie King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        },
+        {
+          "text": "Zombie Poseidon",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ]
+    ],
+    "Zombie King": [
+      [
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        }
+      ],
+      [
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Zombie Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Zombie Prince",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        },
+        {
+          "text": "Zombie Prince",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Zombie Poseidon",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        },
+        {
+          "text": "Zombie Prince",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ]
+    ],
+    "Zombie Queen": [
+      [
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Zombie King",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Zombie Prince": [
+      [
+        {
+          "text": "Zombie King",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Zombie Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Pirate King": [
+      [
+        {
+          "text": "Pirate",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        },
+        {
+          "text": "Zombie Prince",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ]
+    ],
+    "Treasure Map": [
+      [
+        {
+          "text": "Paper",
+          "emoji": "\ud83d\udcc3"
+        },
+        {
+          "text": "Pirate King",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f"
+        }
+      ]
+    ],
+    "Friday": [
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Saudi Arabia",
+          "emoji": "\ud83c\uddf8\ud83c\udde6"
+        }
+      ]
+    ],
+    "Good": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        }
+      ],
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        }
+      ]
+    ],
+    "Evil": [
+      [
+        {
+          "text": "Behead",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        }
+      ],
+      [
+        {
+          "text": "Demon",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Holy Water",
+          "emoji": "\ud83d\udca6"
+        }
+      ]
+    ],
+    "Angel": [
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        }
+      ],
+      [
+        {
+          "text": "Cupid",
+          "emoji": "\ud83d\udc98"
+        },
+        {
+          "text": "Heaven",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        },
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Heaven",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        }
+      ],
+      [
+        {
+          "text": "Cherub",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Cherub",
+          "emoji": "\ud83d\udc7c"
+        }
+      ],
+      [
+        {
+          "text": "Cherub",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        }
+      ],
+      [
+        {
+          "text": "God",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ],
+      [
+        {
+          "text": "Lily",
+          "emoji": "\ud83c\udf38"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ],
+      [
+        {
+          "text": "God",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Devil": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        }
+      ]
+    ],
+    "Cupid": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        }
+      ],
+      [
+        {
+          "text": "Cherub",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Henry VIII",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Demon": [
+      [
+        {
+          "text": "Cupid",
+          "emoji": "\ud83d\udc98"
+        },
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Human",
+          "emoji": "\ud83d\udc68"
+        }
+      ],
+      [
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Spirit",
+          "emoji": "\ud83d\udc7b"
+        }
+      ]
+    ],
+    "Satan": [
+      [
+        {
+          "text": "Demon",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        }
+      ],
+      [
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        }
+      ],
+      [
+        {
+          "text": "Baal",
+          "emoji": "\ud83d\udc79"
+        },
+        {
+          "text": "Bible",
+          "emoji": "\ud83d\udcd6"
+        }
+      ]
+    ],
+    "Weekend": [
+      [
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        },
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        }
+      ],
+      [
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        },
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        }
+      ]
+    ],
+    "Party": [
+      [
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        },
+        {
+          "text": "Weekend",
+          "emoji": "\ud83c\udf1e"
+        }
+      ],
+      [
+        {
+          "text": "Paradise",
+          "emoji": "\ud83c\udfdd\ufe0f"
+        },
+        {
+          "text": "Spring Break",
+          "emoji": "\ud83c\udf34"
+        }
+      ]
+    ],
+    "Heaven": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Party",
+          "emoji": "\ud83c\udf89"
+        }
+      ]
+    ],
+    "Vacation": [
+      [
+        {
+          "text": "Good",
+          "emoji": "\ud83d\udc4d"
+        },
+        {
+          "text": "Weekend",
+          "emoji": "\ud83c\udf1e"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Weekend",
+          "emoji": "\ud83c\udf1e"
+        }
+      ]
+    ],
+    "Paradise": [
+      [
+        {
+          "text": "Heaven",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Vacation",
+          "emoji": "\ud83c\udfd6\ufe0f"
+        }
+      ]
+    ],
+    "Spring Break": [
+      [
+        {
+          "text": "Party",
+          "emoji": "\ud83c\udf89"
+        },
+        {
+          "text": "Vacation",
+          "emoji": "\ud83c\udfd6\ufe0f"
+        }
+      ]
+    ],
+    "Hell": [
+      [
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Vacation",
+          "emoji": "\ud83c\udfd6\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Demon",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Vacation",
+          "emoji": "\ud83c\udfd6\ufe0f"
+        }
+      ],
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Heaven",
+          "emoji": "\ud83c\udf0c"
+        }
+      ]
+    ],
+    "Henry VIII": [
+      [
+        {
+          "text": "Beheading",
+          "emoji": "\ud83d\udd2a"
+        },
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        }
+      ]
+    ],
+    "Cherub": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Cupid",
+          "emoji": "\ud83d\udc98"
+        }
+      ]
+    ],
+    "Zombie Captain Hook": [
+      [
+        {
+          "text": "Captain Hook",
+          "emoji": "\ud83e\ude9d"
+        },
+        {
+          "text": "Zombie Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Zombie",
+          "emoji": "\ud83e\udddf"
+        },
+        {
+          "text": "Zombie Captain Hook",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        }
+      ]
+    ],
+    "Zombie Poseidon": [
+      [
+        {
+          "text": "Zombie Captain Hook",
+          "emoji": "\ud83e\udddf\u200d\u2642\ufe0f"
+        },
+        {
+          "text": "Zombie King",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Sith": [
+      [
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        },
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Hate",
+          "emoji": "\ud83d\udc94"
+        }
+      ]
+    ],
+    "Darth Vader": [
+      [
+        {
+          "text": "ISIS",
+          "emoji": "\ud83d\udca3"
+        },
+        {
+          "text": "Sith",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Darth Maul",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "King",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Pharaoh",
+          "emoji": "\ud83d\ude4b"
+        },
+        {
+          "text": "Sith Lord",
+          "emoji": "\ud83c\udf0c"
+        }
+      ]
+    ],
+    "Sith Lord": [
+      [
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Sith",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "Sith Lord",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Sith Lord",
+          "emoji": "\ud83c\udf0c"
+        }
+      ]
+    ],
+    "Darth Maul": [
+      [
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Sith Lord",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "Darth Maul",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Darth Maul",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "Darth Maul",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        }
+      ]
+    ],
+    "Emperor": [
+      [
+        {
+          "text": "Crown",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Darth Vader",
+          "emoji": "\ud83d\ude08"
+        }
+      ]
+    ],
+    "Bridget Jones": [
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        }
+      ]
+    ],
+    "Bridget Evil": [
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Evil",
+          "emoji": "\ud83d\udc7f"
+        },
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        }
+      ]
+    ],
+    "Bridget Jones: The Edge of Reason": [
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Hell",
+          "emoji": "\ud83d\udc7f"
+        }
+      ]
+    ],
+    "Idol": [
+      [
+        {
+          "text": "Diamond",
+          "emoji": "\ud83d\udc8e"
+        },
+        {
+          "text": "Statue",
+          "emoji": "\ud83d\uddfd"
+        }
+      ]
+    ],
+    "God": [
+      [
+        {
+          "text": "Idol",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Statue",
+          "emoji": "\ud83d\uddfd"
+        }
+      ]
+    ],
+    "Odd": [
+      [
+        {
+          "text": "Divorce",
+          "emoji": "\ud83d\udc94"
+        },
+        {
+          "text": "God",
+          "emoji": "\ud83c\udf0c"
+        }
+      ],
+      [
+        {
+          "text": "God",
+          "emoji": "\ud83c\udf0c"
+        },
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        }
+      ]
+    ],
+    "Even": [
+      [
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        },
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        }
+      ]
+    ],
+    "Number": [
+      [
+        {
+          "text": "Even",
+          "emoji": "\ud83d\ude10"
+        },
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        }
+      ],
+      [
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        },
+        {
+          "text": "Prime",
+          "emoji": "\ud83d\udce6"
+        }
+      ],
+      [
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ]
+    ],
+    "Prime": [
+      [
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Odd",
+          "emoji": "\ud83d\udc7d"
+        }
+      ],
+      [
+        {
+          "text": "Prime",
+          "emoji": "\ud83d\udce6"
+        },
+        {
+          "text": "Prime",
+          "emoji": "\ud83d\udce6"
+        }
+      ]
+    ],
+    "Statue": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Idol",
+          "emoji": "\ud83d\udc51"
+        }
+      ]
+    ],
+    "Dozen": [
+      [
+        {
+          "text": "12",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Number",
+          "emoji": "\ud83d\udd22"
+        }
+      ]
+    ],
+    "Baker\u2019s Dozen": [
+      [
+        {
+          "text": "Dozen",
+          "emoji": "\ud83c\udf52"
+        },
+        {
+          "text": "Queen",
+          "emoji": "\ud83d\udc51"
+        }
+      ],
+      [
+        {
+          "text": "Baker\u2019s Dozen",
+          "emoji": "\ud83e\udd50"
+        },
+        {
+          "text": "Dozen",
+          "emoji": "\ud83c\udf52"
+        }
+      ],
+      [
+        {
+          "text": "Baker\u2019s Gross",
+          "emoji": "\ud83e\udd22"
+        },
+        {
+          "text": "Baker\u2019s Gross",
+          "emoji": "\ud83e\udd22"
+        }
+      ]
+    ],
+    "Baker\u2019s Gross": [
+      [
+        {
+          "text": "Baker\u2019s Dozen",
+          "emoji": "\ud83e\udd50"
+        },
+        {
+          "text": "Baker\u2019s Dozen",
+          "emoji": "\ud83e\udd50"
+        }
+      ]
+    ],
+    "Baker\u2019s Hundred": [
+      [
+        {
+          "text": "Baker\u2019s Dozen",
+          "emoji": "\ud83e\udd50"
+        },
+        {
+          "text": "Baker\u2019s Gross",
+          "emoji": "\ud83e\udd22"
+        }
+      ]
+    ],
+    "Baker\u2019s Hundred and Thirteen": [
+      [
+        {
+          "text": "Baker\u2019s Dozen",
+          "emoji": "\ud83e\udd50"
+        },
+        {
+          "text": "Baker\u2019s Hundred",
+          "emoji": "\ud83d\udcb2"
+        }
+      ]
+    ],
+    "Baker\u2019s Hundred And Thirteen": [
+      [
+        {
+          "text": "Baker\u2019s Hundred",
+          "emoji": "\ud83d\udcb2"
+        },
+        {
+          "text": "Baker\u2019s Hundred and Thirteen",
+          "emoji": "\ud83c\udf70"
+        }
+      ]
+    ],
+    "Incense": [
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Smoke",
+          "emoji": "\ud83d\udca8"
+        }
+      ]
+    ],
+    "Prayer": [
+      [
+        {
+          "text": "Incense",
+          "emoji": "\ud83d\udd6f\ufe0f"
+        },
+        {
+          "text": "Smoke",
+          "emoji": "\ud83d\udca8"
+        }
+      ],
+      [
+        {
+          "text": "Party",
+          "emoji": "\ud83c\udf89"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Saint": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Holy Water": [
+      [
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ]
+    ],
+    "Candle": [
+      [
+        {
+          "text": "Fire",
+          "emoji": "\ud83d\udd25"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Spirit": [
+      [
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        },
+        {
+          "text": "Wind",
+          "emoji": "\ud83c\udf2c\ufe0f"
+        }
+      ]
+    ],
+    "Tree": [
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ],
+      [
+        {
+          "text": "Plant",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Ribs",
+          "emoji": "\ud83c\udf56"
+        }
+      ]
+    ],
+    "Plant": [
+      [
+        {
+          "text": "Earth",
+          "emoji": "\ud83c\udf0d"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Bible": [
+      [
+        {
+          "text": "Paper",
+          "emoji": "\ud83d\udcc3"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Temple": [
+      [
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        },
+        {
+          "text": "Village",
+          "emoji": "\ud83c\udfe1"
+        }
+      ]
+    ],
+    "Sacrifice": [
+      [
+        {
+          "text": "Meat",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Barbeque": [
+      [
+        {
+          "text": "Barbecue",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Baal": [
+      [
+        {
+          "text": "Barbeque",
+          "emoji": "\ud83c\udf56"
+        },
+        {
+          "text": "Temple",
+          "emoji": "\ud83c\udfef"
+        }
+      ]
+    ],
+    "Apple": [
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Tree",
+          "emoji": "\ud83c\udf33"
+        }
+      ]
+    ],
+    "Adam": [
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Apple",
+          "emoji": "\ud83c\udf4e"
+        }
+      ],
+      [
+        {
+          "text": "Eve",
+          "emoji": "\ud83c\udf19"
+        },
+        {
+          "text": "Sacrifice",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Eve",
+          "emoji": "\ud83c\udf19"
+        }
+      ]
+    ],
+    "Eve": [
+      [
+        {
+          "text": "Adam",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        }
+      ],
+      [
+        {
+          "text": "Adam",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Truth",
+          "emoji": "\ud83d\udcac"
+        }
+      ]
+    ],
+    "Ribs": [
+      [
+        {
+          "text": "Adam",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Barbeque",
+          "emoji": "\ud83c\udf56"
+        }
+      ]
+    ],
+    "Christmas": [
+      [
+        {
+          "text": "Candle",
+          "emoji": "\ud83d\udd6f\ufe0f"
+        },
+        {
+          "text": "Tree",
+          "emoji": "\ud83c\udf33"
+        }
+      ]
+    ],
+    "Teen": [
+      [
+        {
+          "text": "12",
+          "emoji": "\ud83d\udd1f"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Pope": [
+      [
+        {
+          "text": "Emperor",
+          "emoji": "\ud83d\udc51"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Sabbath": [
+      [
+        {
+          "text": "Friday",
+          "emoji": "\ud83d\udcc5"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ]
+    ],
+    "Sabbatical": [
+      [
+        {
+          "text": "Sabbath",
+          "emoji": "\ud83d\udd6f\ufe0f"
+        },
+        {
+          "text": "Vacation",
+          "emoji": "\ud83c\udfd6\ufe0f"
+        }
+      ]
+    ],
+    "Bridget Saint": [
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Saint",
+          "emoji": "\ud83d\ude07"
+        }
+      ]
+    ],
+    "Santa": [
+      [
+        {
+          "text": "Adam",
+          "emoji": "\ud83d\udc68"
+        },
+        {
+          "text": "Christmas",
+          "emoji": "\ud83c\udf84"
+        }
+      ]
+    ],
+    "Sponge": [
+      [
+        {
+          "text": "Vacuum",
+          "emoji": "\ud83e\uddf9"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ],
+      [
+        {
+          "text": "Sponge",
+          "emoji": "\ud83e\uddfd"
+        },
+        {
+          "text": "Water",
+          "emoji": "\ud83d\udca7"
+        }
+      ],
+      [
+        {
+          "text": "Life",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        }
+      ]
+    ],
+    "SpongeBob": [
+      [
+        {
+          "text": "Sponge",
+          "emoji": "\ud83e\uddfd"
+        },
+        {
+          "text": "Steam",
+          "emoji": "\ud83d\udca8"
+        }
+      ],
+      [
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        },
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        }
+      ],
+      [
+        {
+          "text": "Bridget Spongepants",
+          "emoji": "\ud83e\uddfd\ud83d\udc56"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ],
+      [
+        {
+          "text": "Life",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Sponge",
+          "emoji": "\ud83e\uddfd"
+        }
+      ]
+    ],
+    "Squidward": [
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        }
+      ],
+      [
+        {
+          "text": "Evil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ],
+      [
+        {
+          "text": "Pizza",
+          "emoji": "\ud83c\udf55"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ]
+    ],
+    "SpongeBob SquarePants": [
+      [
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ]
+    ],
+    "Squid Devil": [
+      [
+        {
+          "text": "Devil",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ]
+    ],
+    "Cthulhu": [
+      [
+        {
+          "text": "Satan",
+          "emoji": "\ud83d\ude08"
+        },
+        {
+          "text": "Squid Devil",
+          "emoji": "\ud83e\udd91"
+        }
+      ],
+      [
+        {
+          "text": "Angel",
+          "emoji": "\ud83d\udc7c"
+        },
+        {
+          "text": "Cthulhu",
+          "emoji": "\ud83d\udc19"
+        }
+      ],
+      [
+        {
+          "text": "Cthulhu",
+          "emoji": "\ud83d\udc19"
+        },
+        {
+          "text": "Saint",
+          "emoji": "\ud83d\ude07"
+        }
+      ]
+    ],
+    "Bridget Spongepants": [
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "SpongeBob SquarePants",
+          "emoji": "\ud83c\udf4d"
+        }
+      ]
+    ],
+    "Bridget Cthulhu": [
+      [
+        {
+          "text": "Bridget Jones",
+          "emoji": "\ud83d\udc85"
+        },
+        {
+          "text": "Cthulhu",
+          "emoji": "\ud83d\udc19"
+        }
+      ]
+    ],
+    "84 (42 is the answer to life, the universe, and everything)": [
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        }
+      ]
+    ],
+    "Answer": [
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Sacrifice",
+          "emoji": "\ud83d\udd2a"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Prayer",
+          "emoji": "\ud83d\ude4f"
+        }
+      ],
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Smoke",
+          "emoji": "\ud83d\udca8"
+        }
+      ]
+    ],
+    "Life": [
+      [
+        {
+          "text": "42",
+          "emoji": "\ud83d\udd22"
+        },
+        {
+          "text": "Answer",
+          "emoji": "\ud83d\udd0d"
+        }
+      ]
+    ],
+    "Truth": [
+      [
+        {
+          "text": "Answer",
+          "emoji": "\ud83d\udd0d"
+        },
+        {
+          "text": "Life",
+          "emoji": "\ud83c\udf31"
+        }
+      ]
+    ],
+    "Spongebob": [
+      [
+        {
+          "text": "Life",
+          "emoji": "\ud83c\udf31"
+        },
+        {
+          "text": "Squidward",
+          "emoji": "\ud83e\udd91"
+        }
+      ],
+      [
+        {
+          "text": "Squarepants",
+          "emoji": "\ud83d\udc19"
+        },
+        {
+          "text": "Truth",
+          "emoji": "\ud83d\udcac"
+        }
+      ]
+    ],
+    "Squarepants": [
+      [
+        {
+          "text": "SpongeBob",
+          "emoji": "\ud83c\udf4d"
+        },
+        {
+          "text": "Truth",
+          "emoji": "\ud83d\udcac"
+        }
+      ]
+    ]
+  }
+}
