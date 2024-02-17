@@ -36,6 +36,9 @@ console.log(
 # Step 3: Run the `main.py` script.
 1. It will try to load the mobile JSON and the PC JSON, and merge the new phone items into the PC.
 2. Note that it will not find the recipes for now. And it will simply load the items into PC.
-3. Have fun! :)
+
+# Step 4: Import the generated file `infinitecraft2.json` in the new Settings Icon (⚙️) besides the search bar.
+1. Have fun! :)
+
 
 Let me know if you wanted to collab!
